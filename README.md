@@ -1,5 +1,5 @@
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=ecelis&repo=healtcoach&show_icons&theme=highcontrast)](https://github.com/ecelis/healtcoach) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecelis&layout=compact)](https://github.com/ecelis)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=ecelis&repo=healtcoach&show_icons&theme=highcontrast)](https://github.com/ecelis/healtcoach)
 
 <!--
 ### Hi there 👋
