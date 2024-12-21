@@ -14,7 +14,7 @@ I'm a senior software engineer with over 20 years of experience working for comp
 
 - 💬 Ask me about **linux, python, javascript, databases**
 
-- 📄 Know about my experiences in [my resume](https://docs.google.com/document/d/e/2PACX-1vR5Piq-WvAncO3oKNwawSnhhNn7itGJeJVyYs0nilNGRTiWhm5A8AWBDrZ-h25qUnXHEID21zLoFFd4/pub)
+- 📄 Know about my experiences in [my resume](https://docs.google.com/document/d/e/2PACX-1vR5Piq-WvAncO3oKNwawSnhhNn7itGJeJVyYs0nilNGRTiWhm5A8AWBDrZ-h25qUnXHEID21zLoFFd4/pub) [PDF](https://drive.google.com/file/d/12kPbOLAVqK37iJIybvKOqNaVMCKLHXUL/view?usp=sharing)
 
 - ⚡ Fun fact **I've lived in 7 out of the 31 States of Mexico**
 
