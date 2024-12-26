@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernesto Celis</h1>
-<h3 align="center">Software engineer 🧑🏻‍💻 by trade, archery 🏹 and photography 📷 enthusiast, music lover 🪈🎸🎹</h3>
+<h3 align="center">Software engineer 🧑🏻‍💻 by trade (🐧 Linux rocks!), archery 🏹 and photography 📷 enthusiast, music lover 🪈🎸🎹</h3>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ecelis&show_icons=true&locale=en" alt="ecelis" />
