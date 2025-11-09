@@ -7,7 +7,7 @@
 
 ### 🔭 Currently Working On
 * **Confer Control (In Production):** A secure electronic voting system **currently being used in several state-level congresses and municipality-level boards.**
-* **AI WhatsApp Media Bot:** A **subscription-based** bot using AI agents to processes media files or web post links (scanning for media to process filters, crops, captions, etc.) in the field for reporters and news people.
+* **AI WhatsApp Media Bot:** A **subscription-based** bot using AI agents for journalists and content creators to processes media files or hyperlinks (apply filters, crops, captions, etc.).
 
 ### 📚 Stack & Learning
 * 💻 **Core Stack:** Python (Flask), PostgreSQL, ReactJS/TypeScript, and Linux.
