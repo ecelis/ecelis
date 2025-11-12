@@ -39,7 +39,6 @@ I'm always looking for new challenges and opportunities to learn and grow.
 * **📫 The best way to reach me is via LinkedIn Message or Email.**
 
 <p align="left">
-<a href="https://linkedin.com/in/celisdelafuente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celisdelafuente" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1366519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1366519" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ecelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ecelis" height="30" width="40" /></a>
 </p>
