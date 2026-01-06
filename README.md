@@ -10,8 +10,8 @@
 * **AI WhatsApp Media Bot:** A **subscription-based** bot using AI agents for journalists and content creators to processes media files or hyperlinks (apply filters, crops, captions, etc.).
 
 ### 📚 Stack & Learning
-* 💻 **Core Stack:** Python (Flask), PostgreSQL, ReactJS/TypeScript, and Linux.
-* 🌱 **Currently Learning:** I'm focused on learning **Go (Golang)** and developing **VST3 audio plugins in C++**.
+* 💻 **Core Stack:** Python (Flask), PostgreSQL, ReactJS/TypeScript, Go (Golang), and Linux.
+* 🌱 **Currently Learning:** I'm focused on learning **Rust** (by reading the book: Building bitcoin in rust) and developing **VST3 audio plugins in C++**.
 
 * 💬 Ask me about **linux, python, javascript, databases**
 * 👨‍💻 All of my projects are available at [https://celisdelafuente.net](https://celisdelafuente.net)
